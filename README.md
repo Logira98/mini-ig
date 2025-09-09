@@ -5,7 +5,7 @@ Includes login, onboarding, profile editing, posting text/images, and reactions 
 
 ---
 
-## 🚀 Features
+## Features
 - **Login (cookies stored)**  
   - Enter any username & password to log in.  
   - Saved in cookies for session persistence.  
@@ -18,7 +18,7 @@ Includes login, onboarding, profile editing, posting text/images, and reactions 
 - **Feed**  
   - View/edit profile (from feed header).  
   - Create **text posts** and **image posts** (saved in LocalStorage).  
-  - Reaction bar: **Like ❤️, Comment 💬, Share 🔗** (saved in LocalStorage).  
+  - Reaction bar: **Like, Comment, Share** (saved in LocalStorage).  
 
 - **Responsive design** (desktop + mobile).  
 
@@ -36,5 +36,5 @@ Includes login, onboarding, profile editing, posting text/images, and reactions 
 
 Clone the repo:
 ```bash
-git clone https://github.com/your-username/mini-ig.git
+git clone https://github.com/Logira98/mini-ig.git
 cd mini-ig
